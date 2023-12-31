@@ -1,0 +1,9 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>sentence_transformers
+# platform: osx-arm64
+langchain
+deeplake
+streamlit
+python-dotenv
+openai
+gpt4all
